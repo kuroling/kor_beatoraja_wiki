@@ -1,4 +1,3 @@
-curl "https://raw.githubusercontent.com/kuroling/kor_beatoraja_wiki/main/beatoraja%20bat/beatoraja-openjdk.bat" --output "beatoraja-openjdk.bat"
 curl "https://mocha-repository.info/download/beatoraja0.8.6-modernchic.zip" --output "beatoraja0.8.6-modernchic.zip"
 curl -LO  "https://corretto.aws/downloads/latest/amazon-corretto-21-x64-windows-jdk.zip" --output "jdk.zip"
 curl "https://download2.gluonhq.com/openjfx/21.0.1/openjfx-21.0.1_windows-x64_bin-sdk.zip" --output "javafx.zip"
